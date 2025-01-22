@@ -1,6 +1,6 @@
-# YouTube-Driven Stock Prediction Using GPT-4
+#  YouTube-Driven Stock Prediction Using GPT-4
 ## Overview
-  This project combines cutting-edge technologies to provide stock price predictions based on insights extracted from YouTube videos. By leveraging the YouTube API, transcript analysis, and GPT-4's advanced natural language processing capabilities, it delivers a comprehensive and innovative approach to market analysis.
+      This project combines cutting-edge technologies to provide stock price predictions based on insights extracted from YouTube videos. By leveraging the YouTube API, transcript analysis, and GPT-4's advanced natural language processing capabilities, it delivers a comprehensive and innovative approach to market analysis.
 
 ## Features
  - Fetches relevant YouTube videos for a given stock or asset using the YouTube Data API.
@@ -10,10 +10,10 @@
 
 ## Tech Stack
  - Programming Language: Python
- - ### APIs Used:
-      Google YouTube Data API
-      YouTube Transcript API
-      OpenAI GPT-4 API
+ - APIs Used:
+      Google YouTube Data API, 
+      YouTube Transcript API, 
+      OpenAI GPT-4 API.
  - Other Libraries: os, requests, openai, googleapiclient.discovery
 
 ## How It Works
@@ -26,8 +26,8 @@
 ## Installation
 ### Clone the repository:
 ```bash
-    git clone <repo-link>
-    cd <repo-folder>
+    git clone https://github.com/KumarP123IT/Youtube-Driven-stock-prediction-using-GPT-4.git
+    cd Youtube-Driven-stock-prediction-using-GPT-4
 ```
 ### Install dependencies:
 ```bash
@@ -40,7 +40,7 @@
  - Create a file named assets.txt containing the names of the assets you want to analyze (one asset per line).
  - Run the script:
 ```bash
-    python main.py
+    python proj2.py
 ```
 
 ## Outputs
