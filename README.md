@@ -1,6 +1,6 @@
 #  YouTube-Driven Stock Prediction Using GPT-4
 ## Overview
-  This project combines cutting-edge technologies to provide stock price predictions based on insights extracted from YouTube videos. By leveraging the YouTube API, transcript analysis, and GPT-4's advanced natural language processing capabilities, it delivers a comprehensive and innovative approach to market analysis.
+   This project combines cutting-edge technologies to provide stock price predictions based on insights extracted from YouTube videos. By leveraging the YouTube API, transcript analysis, and GPT-4's advanced natural language processing capabilities, it delivers a comprehensive and innovative approach to market analysis.
 
 ## Features
  - Fetches relevant YouTube videos for a given stock or asset using the YouTube Data API.
